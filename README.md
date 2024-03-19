@@ -7,9 +7,9 @@ Note: Examples given are with wstETH and USDC but any combination of tokens can 
 1. Providing liquidity: Reward unborrowed tokens with LRT points, earn interest on borrowed tokens
 2. Borrowing liquidity: Reward borrowed tokens with LRT points, pay interest to liquidity providers
 
-## 1. Providing liquidity (LRT token and some other token)
+## 1. Providing liquidity
   
-Providing liquidity into a full range x*y=k AMM. Users would earn points from the LRT token in the AMM.
+Providing liquidity into a full range x*y=k AMM. Users would earn points from the LRT token in the AMM. The AMM can be made of an LRT token and any other token. Alternatively it could be two LRT tokens.
 
 Example:
 
@@ -17,7 +17,7 @@ user1 provides 100 wstETH and 100 USDC as liquidity into the AMM. His wstETH bal
 
 ## 2. Borrowing liquidity
 
-Borrowing liquidity from the above mentioned AMM in order to turn impermanent loss into impermanent gain. Users would earn points on wstETH held as collateral against the AMM liquidity loan.
+Borrowing liquidity from the above mentioned AMM in order to turn impermanent loss into impermanent gain. Users would earn points on the LRT token held as collateral against the AMM liquidity loan.
 
 Example:
 
