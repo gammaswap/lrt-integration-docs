@@ -1,11 +1,11 @@
 # LRT-Integration-Docs
 Documentation about integrating GammaSwap with Liquid Restaking Tokens
 
-Note: Examples given are with wstETH and USDC but any combination of tokens can be used.
-
-### Two types of integrations:
+## Two types of integrations:
 1. Providing liquidity: Reward unborrowed tokens with LRT points, earn interest on borrowed tokens
 2. Borrowing liquidity: Reward borrowed tokens with LRT points, pay interest to liquidity providers
+
+Note: Examples given below are for a GammaSwap pool made of wstETH and USDC but any combination of tokens can be used.
 
 ## 1. Providing liquidity
   
