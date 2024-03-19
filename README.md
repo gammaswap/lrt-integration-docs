@@ -1,5 +1,5 @@
 # LRT-Integration-Docs
-Documentation about integrating GammaSwap with Liquid Restaking Tokens
+Documentation about integrating GammaSwap with Liquid Restaking Tokens. Full description of subgraph and smart contract calls to achieve the integration are described in the word document called "GammaSwap LRT Integration Docs"
 
 ## Two types of integrations:
 1. Providing liquidity: Reward unborrowed tokens with LRT points, earn interest on borrowed tokens
