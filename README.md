@@ -1,6 +1,18 @@
 # LRT-Integration-Docs
 Documentation about integrating GammaSwap with Liquid Restaking Tokens. Full description of subgraph and smart contract calls to achieve the integration are described in the word document called "GammaSwap_LRT_Integrations.docx"
 
+## Addresses
+
+LPViewer contract used for getting the reserve token quantities of an LP
+
+arbitrumSepolia: 0x1Ff4013fC30ce56A6c3434F71261adbbA2642f34
+
+baseSepolia: 0x5A406f713e61BB873B900040fe2084ad1e51Cc96
+
+arbitrum: 0x3a6CE4c0467B8a0fFb74624134C1b525d9F42198
+
+base: 0x9289b0b70621b90677b8F95ad35225B01341e613
+
 ## Two types of integrations:
 1. Providing liquidity: Reward unborrowed tokens with LRT points, earn interest on borrowed tokens
 2. Borrowing liquidity: Reward borrowed tokens with LRT points, pay interest to liquidity providers
