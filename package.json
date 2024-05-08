@@ -1,0 +1,11 @@
+{
+  "name": "lrt-integration-docs",
+  "version": "1.0.0",
+  "description": "Documentation about integrating GammaSwap with Liquid Restaking Tokens. Full description of subgraph and smart contract calls to achieve the integration are described in the word document called \"GammaSwap_LRT_Integrations.docx\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
